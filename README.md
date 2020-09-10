@@ -4,4 +4,4 @@
 
 ### Implementation of the following table
 
-<img width="90" align="center" src="./assets/table.png"/>
+<img width="200" align="center" src="./assets/table.png"/>
