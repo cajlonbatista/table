@@ -1,7 +1,7 @@
 # Exercise tables
 
- Resolution of the teacher table exercise
+ Resolution of the teacher table exercise @github/profseb
 
 ### Implementation of the following table
 
-<img width="200" align="center" src="./assets/table.png"/>
+<img width="600" align="center" src="./assets/table.png"/>
