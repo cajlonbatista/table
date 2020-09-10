@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo&family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: uppercase;
+
+}
+table{
+    width: 95%;
+    max-width: 1200px;
+    margin: 30px auto;
+}
+table th{
+    background-color: #f5f5f5;
+    padding: 5px;
+    color: #fc3f3f;
+    font-family: Archivo, sans-serif;
+}
+table td{
+    padding: 5px;
+    font-family: Roboto, sans-serif;
+}
